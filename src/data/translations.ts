@@ -308,7 +308,6 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     sizeLabel: 'Size',
     priceLabel: 'Price',
     baseDimensions: 'Base dimensions',
-    addToDesign: 'Add to Design',
     replaceBtn: 'Replace',
 
     // AR Preview Page
@@ -365,7 +364,6 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     requestChangesBtn: 'Request Changes',
     approveFinalBtn: 'Approve Final Design',
     designApprovedTitle: 'Design Approved',
-    readyHandoff: 'Ready for final handoff',
     continueSettingsBtn: 'Continue to Settings',
 
     // Furniture Catalog Item Names
@@ -855,7 +853,6 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     sizeLabel: 'आकार (Size)',
     priceLabel: 'मूल्य',
     baseDimensions: 'मूल आयाम',
-    addToDesign: 'डिजाइन में जोड़ें',
     replaceBtn: 'बदलें (Replace)',
 
     // AR Preview Page
@@ -912,7 +909,6 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     requestChangesBtn: 'परिवर्तन का अनुरोध करें',
     approveFinalBtn: 'अंतिम डिजाइन स्वीकृत करें',
     designApprovedTitle: 'डिजाइन स्वीकृत',
-    readyHandoff: 'अंतिम हैंडऑफ के लिए तैयार',
     continueSettingsBtn: 'सेटिंग्स पर जाएं',
 
     // Furniture Catalog Item Names
@@ -1402,7 +1398,6 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     sizeLabel: 'आकार (Size)',
     priceLabel: 'किंमत',
     baseDimensions: 'मूळ परिमाणे',
-    addToDesign: 'डिझाइनमध्ये जोडा',
     replaceBtn: 'बदला (Replace)',
 
     // AR Preview Page
@@ -1459,7 +1454,6 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     requestChangesBtn: 'बदलांची विनंती करा',
     approveFinalBtn: 'अंतिम डिझाइन मंजूर करा',
     designApprovedTitle: 'डिझाइन मंजूर झाले',
-    readyHandoff: 'अंतिम हस्तांतरणासाठी तयार',
     continueSettingsBtn: 'सेटिंग्जवर जा',
 
     // Furniture Catalog Item Names
