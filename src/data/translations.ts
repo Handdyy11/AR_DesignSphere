@@ -18,7 +18,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     // Brand & App
     appName: 'AR DesignSphere',
     appTagline: 'Space. Reimagined.',
-    
+
     // Navigation & Breadcrumbs
     navDashboard: 'Dashboard',
     navProjects: 'Projects',
@@ -132,7 +132,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     signOut: 'Sign Out',
     homeownerRole: 'Homeowner',
     designerRole: 'Interior Designer',
-    
+
     // Language Switcher
     language: 'Language',
     selectLanguage: 'Select Language',
@@ -140,7 +140,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     languageOptionEnglish: 'English',
     languageOptionHindi: 'हिंदी (Hindi)',
     languageOptionMarathi: 'मराठी (Marathi)',
-    
+
     // Accessibility Page
     a11yTitle: 'Accessibility & Display Settings',
     a11ySubtitle: 'Controls apply instantly across AR DesignSphere. Customize visual contrast, text size, and language preferences.',
@@ -571,7 +571,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     // Brand & App
     appName: 'AR डिजाइनस्फेयर',
     appTagline: 'स्थान। एक नई कल्पना।',
-    
+
     // Navigation & Breadcrumbs
     navDashboard: 'डैशबोर्ड',
     navProjects: 'प्रकल्प',
@@ -679,7 +679,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     signOut: 'साइन आउट',
     homeownerRole: 'गृहस्वामी',
     designerRole: 'इंटीरियर डिजाइनर',
-    
+
     // Language Switcher
     language: 'भाषा',
     selectLanguage: 'भाषा चुनें',
@@ -687,7 +687,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     languageOptionEnglish: 'English (अंग्रेज़ी)',
     languageOptionHindi: 'हिंदी',
     languageOptionMarathi: 'मराठी',
-    
+
     // Accessibility Page
     a11yTitle: 'सुगमता एवं प्रदर्शन सेटिंग्स (Accessibility)',
     a11ySubtitle: 'नियंत्रण AR डिजाइनस्फेयर में तुरंत लागू होते हैं। अपनी इच्छानुसार कंट्रास्ट, टेक्स्ट आकार और भाषा चुनें।',
@@ -1118,7 +1118,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     // Brand & App
     appName: 'AR डिझाइनस्फिअर',
     appTagline: 'जागा. एक नवी कल्पना.',
-    
+
     // Navigation & Breadcrumbs
     navDashboard: 'डॅशबोर्ड',
     navProjects: 'प्रकल्प',
@@ -1226,7 +1226,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     signOut: 'साइन आउट',
     homeownerRole: 'घरमालक',
     designerRole: 'इंटिरिअर डिझायनर',
-    
+
     // Language Switcher
     language: 'भाषा',
     selectLanguage: 'भाषा निवडा',
@@ -1234,7 +1234,7 @@ export const TRANSLATIONS: Record<Language, Record<string, string>> = {
     languageOptionEnglish: 'English (इंग्रजी)',
     languageOptionHindi: 'हिंदी',
     languageOptionMarathi: 'मराठी',
-    
+
     // Accessibility Page
     a11yTitle: 'सुलभता आणि डिस्प्ले सेटिंग्ज (Accessibility)',
     a11ySubtitle: 'नियंत्रणे AR डिझाइनस्फिअर मध्ये त्वरित लागू होतात. तुमच्या गरजेनुसार कॉन्ट्रास्ट, मजकूर आकार आणि भाषा निवडा.',
